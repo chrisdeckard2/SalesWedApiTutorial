@@ -1,0 +1,6 @@
+@SalesWedApiTutorial_HostAddress = http://localhost:5023
+
+GET {{SalesWedApiTutorial_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
